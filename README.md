@@ -1,4 +1,4 @@
-<a href="#"><img width="75%" src="https://cdn2.careeraddict.com/uploads/article/58245/medium-illustration-woman-computer-magnifying-glass.jpg" height="150px" style="left: 160px"/></a>
+<a href="#"><img width="100%" src="https://cdn2.careeraddict.com/uploads/article/58245/medium-illustration-woman-computer-magnifying-glass.jpg" height="150px" /></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nouhaila Bouanane</h1>
 <h2 align="center">I'm passionate about Data Science field from Morocco.</h2>
 
