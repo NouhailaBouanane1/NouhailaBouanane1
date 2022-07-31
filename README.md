@@ -1,4 +1,4 @@
-<a href="#"><img width="70%" src="[https://image.shutterstock.com/image-vector/data-science-concept-people-scene-260nw-2180129929.jpg](https://we-fi.org/wp-content/uploads/2021/05/women-in-data.png)" height="180px" /></a>
+<a href="#"><img width="70%" src="[[https://image.shutterstock.com/image-vector/data-science-concept-people-scene-260nw-2180129929.jpg](https://we-fi.org/wp-content/uploads/2021/05/women-in-data.png)](https://static.vecteezy.com/system/resources/previews/002/957/209/non_2x/data-analytics-woman-working-with-business-data-vector.jpg)" height="180px" /></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nouhaila Bouanane</h1>
 <h2 align="center">I'm passionate about Data Science field from Morocco.</h2>
 
