@@ -1,4 +1,4 @@
-<a href="#"><img width="400px" src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/girl_3.gif" height="420px" class="center"/></a>
+<a href="#"><img width="50%" src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/girl_3.gif" height="420px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nouhaila Bouanane</h1>
 <h2 align="center">I'm passionate about Data Science field from Morocco.</h2>
 
