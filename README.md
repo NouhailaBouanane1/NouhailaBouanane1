@@ -1,4 +1,4 @@
-<a href="#"><img width="70%" src="https://www.springboard.com/blog/wp-content/uploads/2022/03/why-data-science.png" height="180px" /></a>
+<a href="#"><img width="70%" src="https://image.shutterstock.com/image-vector/data-science-concept-people-scene-260nw-2180129929.jpg" height="180px" /></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nouhaila Bouanane</h1>
 <h2 align="center">I'm passionate about Data Science field from Morocco.</h2>
 
