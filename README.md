@@ -1,4 +1,4 @@
-<a href="#"><img width="85%" src="https://cdni.iconscout.com/illustration/premium/thumb/woman-working-on-data-analysis-5405129-4525621.png" height="180px" /></a>
+<a href="#"><img width="80%" src="https://cdni.iconscout.com/illustration/premium/thumb/woman-working-on-data-analysis-5405129-4525621.png" height="180px" /></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nouhaila Bouanane</h1>
 <h2 align="center">I'm passionate about Data Science field from Morocco.</h2>
 
