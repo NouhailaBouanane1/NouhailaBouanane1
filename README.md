@@ -5,7 +5,7 @@
 
 ## 1. 🙋‍♂️ About Me
 
-- 🔭 I’m currently **freshly graduated** from the University of Jordan with a Bachelor's in **Computer Engineering**.
+- 🔭 I’m currently **master student** at ELTE university in **data science**.
 
 - 🌱 I’m currently learning **Deep learning Algorithms.**
 
