@@ -5,7 +5,7 @@
 
 ## 1. 🙋‍♂️ About Me
 
-- 🔭 I’m currently **master student** at ELTE university in **data science**.
+- 🔭 I’m currently **master student** at ELTE university, specialization: **data science**.
 
 - 🌱 I’m currently learning **Deep learning Algorithms.**
 
