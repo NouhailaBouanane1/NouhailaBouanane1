@@ -69,4 +69,4 @@
 ## 4. Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/nouhaila-bouanane-4a1313242/(https://www.linkedin.com/in/nouhaila-bouanane-4a1313242/)"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a></p>
+<a href = "https://www.linkedin.com/in/nouhaila-bouanane-4a1313242/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a></p>
