@@ -1,17 +1,12 @@
 <a href="#"><img width="80%" src="https://cdni.iconscout.com/illustration/premium/thumb/woman-working-on-data-analysis-5405129-4525621.png" height="180px" /></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nouhaila Bouanane</h1>
-<h2 align="center">I'm passionate about Data Science field from Morocco.</h2>
 
 
 ## 1. 🙋‍♂️ About Me
 
 - 🔭 I’m currently **master student** at ELTE university, specialization: **data science**.
 
-- 🌱 I’m currently learning **Deep learning Algorithms.**
-
-- 👯 I’m looking to collaborate on **open source projects** or gain new industrial experience, such as an **internship**, **part-time** or **full-time job**.
-
-- 👨‍💻 All of my projects are available at **[My Guithub](https://github.com/NouhailaBouanane1)**
+- 🌱 I’m currently Working **at CITI**
 
 - 📫 How to reach me **nouha.bouanane@gmail.com**
 
